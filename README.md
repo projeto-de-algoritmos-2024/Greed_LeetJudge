@@ -1,45 +1,56 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# LeetJudge
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 10<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula  | Aluno                           |
+| ---------- | ------------------------------- |
+| 22/1007653 | Luciano Ricardo da Silva Junior |
+| 21/1031468 | Pedro Victor Salerno Martins    |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolver duas questões dificeis e duas media utilizando os conceitos de algoritimos ambiciosos aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
+
+## Video de apresentação
+O video de apresentação pode ser encontrado em [link]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+<!-- **Questão 621 após submição**
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+![img621](assets/img621.png)
 
 
+**Questão 882 após submição**
+
+![img882](assets/img882.png)
 
 
+**Questão 1368 após submição**
+
+![img1368](assets/img1368.png)
+
+
+**Questão 1584 após submição**
+
+![img1584](assets/img1584.png) -->
+
+
+## Instalação
+
+**Linguagem**: Python<br>
+**Framework**: Não tem<br>
+
+## Uso
+
+Você pode apenas entrar na questão especifica do juiz virtual e fazer a submição.
+
+As questões são:
+
+- [Questão 621](https://leetcode.com/problems/task-scheduler/description/)
+- [Questão ]()
+- [Questão ]()
+- [Questão ]()
+
+Alternativamente você pode ter o Python instalado e executar os arquivos de teste.
