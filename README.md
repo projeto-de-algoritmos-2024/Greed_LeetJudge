@@ -17,24 +17,24 @@ O video de apresentação pode ser encontrado em [link]()
 
 ## Screenshots
 
-<!-- **Questão 621 após submição**
+**Questão 621 após submição**
 
 ![img621](assets/img621.png)
 
 
-**Questão 882 após submição**
+**Questão 921 após submição**
 
-![img882](assets/img882.png)
-
-
-**Questão 1368 após submição**
-
-![img1368](assets/img1368.png)
+![img921](assets/img921.png)
 
 
-**Questão 1584 após submição**
+**Questão 2136 após submição**
 
-![img1584](assets/img1584.png) -->
+![img2136](assets/img2136.png)
+
+
+**Questão 1526 após submição**
+
+![img1526](assets/img1526.png)
 
 
 ## Instalação
@@ -49,8 +49,8 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 As questões são:
 
 - [Questão 621](https://leetcode.com/problems/task-scheduler/description/)
-- [Questão ]()
-- [Questão ]()
-- [Questão ]()
+- [Questão 921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
+- [Questão 2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
+- [Questão 1526](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/)
 
 Alternativamente você pode ter o Python instalado e executar os arquivos de teste.
