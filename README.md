@@ -49,6 +49,7 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 As questões são:
 
 - [Questão 621](https://leetcode.com/problems/task-scheduler/description/)
+- [Questão 632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 - [Questão 921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 - [Questão 2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
 - [Questão 1526](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/)
