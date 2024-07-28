@@ -2,11 +2,7 @@ import heapq
 
 class Solution:
     def smallestRange(self, nums):
-        """
-        :type nums: List[List[int]]
-        :rtype: List[int]
-        """
-        
+
         n = len(nums)
         
         heap = [(num[0], i, 0) for i, num in enumerate(nums)]
