@@ -22,6 +22,11 @@ O video de apresentação pode ser encontrado em [link]()
 ![img621](assets/img621.png)
 
 
+**Questão 632 após submição**
+
+![img632](assets/img632.png)
+
+
 **Questão 921 após submição**
 
 ![img921](assets/img921.png)
