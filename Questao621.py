@@ -27,9 +27,3 @@ class Solution(object):
                 intervals += len(temp)
 
         return intervals
-
-
-tasks = ["A","A","A","B","B","B"]
-n = 2
-solution = Solution()
-print(solution.leastInterval(tasks, n))  
