@@ -1,5 +1,5 @@
 import unittest
-from qquestao1526 import Solution
+from questao1526 import Solution
 
 class TestSolution(unittest.TestCase):
     
