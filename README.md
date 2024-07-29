@@ -13,7 +13,7 @@
 Resolver tres questões dificeis e tres medias utilizando os conceitos de algoritimos ambiciosos aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
 
 ## Video de apresentação
-O video de apresentação pode ser encontrado em [link]()
+O video de apresentação pode ser encontrado em [link](https://youtu.be/tKjCHToktA4)
 
 ## Screenshots
 
